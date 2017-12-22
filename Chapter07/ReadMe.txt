@@ -1,1 +1,0 @@
-There are no code files in Chapter02, chapter03, chapter08 and chapter15

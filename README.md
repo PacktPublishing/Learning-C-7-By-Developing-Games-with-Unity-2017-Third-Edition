@@ -23,6 +23,3 @@ You will definitely need a computer–PC, Mac, or any machine that supports Unit
 * [Mastering Unity 2017 Game Development with C# - Second Edition](https://www.packtpub.com/web-development/mastering-unity-2017-game-development-c-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788479837)
 
 * [Learning C for Arduino](https://www.packtpub.com/networking-and-servers/learning-c-arduino?utm_source=github&utm_medium=repository&utm_campaign=9781787120099)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
